@@ -12,6 +12,11 @@ FashionHub is a modern e-commerce frontend project built to showcase fashion pro
 - HTML5
 - CSS3
 
+
+## 🚀 Live Demo
+You can view a live demo of this project here: [FashionHub](https://parsa-vahdati2003.github.io/FashionHub/)
+
+
 ## 🚀 Getting Started
 Clone the repository and open `index.html` in your browser:
 
