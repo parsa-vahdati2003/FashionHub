@@ -241,7 +241,7 @@ header {
 
 .hero__right__container {
   display: flex;
-  justify-content: space-between;
+  gap: 140px;
   border-bottom: 1px solid #e4e4e4;
   padding-bottom: 32px;
 }
